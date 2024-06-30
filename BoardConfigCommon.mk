@@ -6,6 +6,8 @@
 
 COMMON_PATH := device/xiaomi/sm8350-common
 
+TARGET_KERNEL_CLANG_VERSION := r487747c
+
 # A/B
 AB_OTA_UPDATER := true
 
